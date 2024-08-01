@@ -1,0 +1,1 @@
+CREATE TABLE autores (nombre VARCHAR(255));
